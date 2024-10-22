@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+
+.write-items{
+    margin: 0px 80px 0px 80px;
+}
+
+.contact-us{
+    font-size: 18px;
+    font-weight: 800;
+    font-family:'Poppins';
+    margin-top: 30px;
+}
+
+.note{
+    font-size: 16px;
+    font-weight: 600;
+    font-family:'Poppins';
+    color:#5A5959;
+    margin-top: 8px;
+
+}
